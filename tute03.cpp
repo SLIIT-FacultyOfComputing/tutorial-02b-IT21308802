@@ -20,7 +20,7 @@ int main()
 
     printf("Factorial of %d is %ld\n", no, fac);  
     return 0;
-}*/
+}**/
 
 
 #include <iostream>
